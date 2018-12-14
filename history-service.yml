@@ -1,3 +1,5 @@
 hello:
     service: "hello!!!"
     test: true
+    dev: true
+    isSuper: true
