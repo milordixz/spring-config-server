@@ -3,3 +3,4 @@ hello:
     test: false
     dev: true
     isSuper: true
+    group: refresh
