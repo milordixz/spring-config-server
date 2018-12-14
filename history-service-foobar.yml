@@ -1,5 +1,5 @@
 hello:
-    service: "Select profile foobar!!!"
-    test: true
+    service: "Select profile foobar!!! - is changed"
+    test: false
     dev: true
     isSuper: true
