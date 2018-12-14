@@ -1,0 +1,5 @@
+hello:
+    service: "Select profile foobar!!!"
+    test: true
+    dev: true
+    isSuper: true
