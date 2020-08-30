@@ -4,4 +4,4 @@ server:
 message:
   text: git hello dev
   mode: dev
-  label: branch-refresh
+  label: branch-new-Value
