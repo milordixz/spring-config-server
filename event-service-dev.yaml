@@ -4,4 +4,4 @@ server:
 message:
   text: git hello dev
   mode: dev
-  label: master
+  label: branch
