@@ -4,4 +4,4 @@ server:
 message:
   text: git hello prod
   mode: prod
-  label: master
+  label: branch
