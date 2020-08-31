@@ -2,6 +2,6 @@ server:
   port: 8001
 
 message:
-  text: git hello prod-refresh
+  text: git hello prod-refresh-kafka
   mode: prod
   label: master
